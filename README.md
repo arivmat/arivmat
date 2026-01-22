@@ -1,25 +1,7 @@
-# Hola, soy Andrea Rivera Mateos 👋
+## 👋 Hola, soy Andrea
 
-Analista de datos con experiencia en **extracción, análisis e interpretación de datos** para la medición de objetivos y la toma de decisiones estratégicas.
+Soy analista de datos con un perfil orientado a la **analítica digital, la visualización y la comunicación de resultados**. Trabajo en la extracción, análisis e interpretación de datos para apoyar la **medición de objetivos** y la **toma de decisiones estratégicas**, combinando análisis técnico con una mirada orientada a negocio.
 
-Trabajo en la definición de **KPIs**, la automatización de **reporting** y la creación de **dashboards** orientados a negocio y a usuarios no técnicos. Me interesa especialmente la **analítica digital**, la visualización y la comunicación clara de resultados mediante **storytelling con datos**.
+Me interesa especialmente crear **dashboards y reporting** pensados para usuarios no técnicos, así como explorar cómo el **storytelling con datos** puede mejorar la forma en que comunicamos información y generamos impacto a partir de los datos.
 
-Actualmente desarrollo proyectos relacionados con datos digitales, redes sociales y visualización, combinando análisis técnico con una mirada estratégica y comunicativa.
-
----
-
-### 🔍 Áreas de interés
-- Analítica y medición de datos  
-- Analítica digital y datos de redes sociales  
-- Visualización y reporting  
-- Storytelling y comunicación de resultados  
-
----
-
-### 🛠️ Tecnologías con las que trabajo habitualmente
-- R, SQL  
-- Dashboards y reporting (R Shiny, ggplot2)  
-- Web scraping y análisis de texto  
-- Google Analytics (GA4)  
-
----
+Actualmente desarrollo proyectos relacionados con datos digitales, visualización y análisis exploratorio, utilizando principalmente **R, SQL y herramientas de analítica web**.
