@@ -1,17 +1,25 @@
-## Hi there 👋
-Hi I am Andrea.
+# Hola, soy Andrea Rivera Mateos 👋
 
-<!--
-**arivmat/arivmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos con experiencia en **extracción, análisis e interpretación de datos** para la medición de objetivos y la toma de decisiones estratégicas.
 
-Here are some ideas to get you started:
+Trabajo en la definición de **KPIs**, la automatización de **reporting** y la creación de **dashboards** orientados a negocio y a usuarios no técnicos. Me interesa especialmente la **analítica digital**, la visualización y la comunicación clara de resultados mediante **storytelling con datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente desarrollo proyectos relacionados con datos digitales, redes sociales y visualización, combinando análisis técnico con una mirada estratégica y comunicativa.
+
+---
+
+### 🔍 Áreas de interés
+- Analítica y medición de datos  
+- Analítica digital y datos de redes sociales  
+- Visualización y reporting  
+- Storytelling y comunicación de resultados  
+
+---
+
+### 🛠️ Tecnologías con las que trabajo habitualmente
+- R, SQL  
+- Dashboards y reporting (R Shiny, ggplot2)  
+- Web scraping y análisis de texto  
+- Google Analytics (GA4)  
+
+---
